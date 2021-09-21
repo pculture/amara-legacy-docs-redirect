@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'amara-redir'
-copyright = '2021, amara.org'
-author = 'amara.org'
+copyright = '2021, Participatory Culture Foundation'
+author = 'amara.org developers'
 
 
 # -- General configuration ---------------------------------------------------

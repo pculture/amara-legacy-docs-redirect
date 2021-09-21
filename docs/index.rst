@@ -17,11 +17,5 @@
     <script type="text/javascript">
     window.location.replace('https://apidocs.amara.org/');
     </script>
+    <noscript><h1>Amara API docs site permanently moved to <a href="https://apidocs.amara.org/#authentication">apidocs.amara.org</a></h1> <h2>nothing to see here.</h2></noscript>
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
