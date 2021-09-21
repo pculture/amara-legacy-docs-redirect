@@ -3,11 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. raw:: html
 
-    <script type="text/javascript">
-    window.location.replace('https://apidocs.amara.org/');
-    </script>
 
 =======================================
 
@@ -15,6 +11,12 @@
    :maxdepth: 2
    :caption: Contents:
 
+
+.. raw:: html
+
+    <script type="text/javascript">
+    window.location.replace('https://apidocs.amara.org/');
+    </script>
 
 
 Indices and tables
